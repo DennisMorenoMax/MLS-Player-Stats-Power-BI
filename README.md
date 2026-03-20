@@ -51,7 +51,7 @@ Underperformers xG
 
 ![](images_pbviz/goals_vs_xg_intermiami.png)
 
-### Filters & Slicers 🔍
+### Filters & Slicers 
 
 The dashboard includes interactive slicers for:
 
